@@ -70,9 +70,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="106.08502"
-     inkscape:cy="246.31033"
+     inkscape:zoom="0.7"
+     inkscape:cx="239.52198"
+     inkscape:cy="397.79085"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -135,5 +135,16 @@
        id="rect825"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
+    <g
+       aria-label="M"
+       transform="scale(1.0455567,0.95642828)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.80804634px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#f5cd86;fill-opacity:1;stroke:none;stroke-width:0.37020117"
+       id="text876">
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.07862854px;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#f5cd86;fill-opacity:1;stroke-width:1.39918554"
+         d="M 180.13281 265.09961 L 171.58398 323.33789 L 140.7168 323.33789 L 140.7168 350.14258 L 167.64844 350.14258 L 153.73047 444.95703 L 181.81836 444.95703 L 200.35547 309.03711 L 254.84766 402.30469 L 308.21484 309.03711 L 326.75391 444.95703 L 354.8418 444.95703 L 341.07031 350.14258 L 367.85547 350.14258 L 367.85547 323.33789 L 337.17773 323.33789 L 328.71875 265.09961 L 305.6875 265.09961 L 254.56641 354.25781 L 202.88477 265.09961 L 180.13281 265.09961 z "
+         transform="matrix(0.25305498,0,0,0.27663688,41.211812,80.921727)"
+         id="path1474" />
+    </g>
   </g>
 </svg>
